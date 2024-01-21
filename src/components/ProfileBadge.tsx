@@ -4,7 +4,6 @@ import {
     Card,
     CardBody,
     CardTitle,
-    CardText,
 
     Dropdown,
     DropdownToggle,
@@ -14,8 +13,6 @@ import {
     Button,
     Form,    
     Label,
-    Input,
-    FormGroup
 } from 'reactstrap';
 import "../stylesheets/ProfileBadge.css";
 
