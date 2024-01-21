@@ -1,0 +1,17 @@
+
+
+.project-list {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    list-style-type: none;
+    flex-wrap: wrap;
+    margin-left: 10em;
+}
+.project-list > li {
+    padding: 10px;
+    
+}
+.project-list> li > a > img {
+    border-radius: 10px;
+}
